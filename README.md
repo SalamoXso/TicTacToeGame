@@ -1,5 +1,3 @@
-```markdown
-# parse this README.md
 
 ## TicTacToeGame
 
@@ -26,11 +24,9 @@ This project was created for educational purposes.
 
 ### Author
 
-[Your Name]
+SalamoXSO
 
 ### License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-end parse here
-```
